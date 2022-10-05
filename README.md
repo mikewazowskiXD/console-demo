@@ -1,4 +1,4 @@
 # console-demo
-React browser console, displays personal information. 
+- React browser console, displays personal information. 
 
-Adding ASCII & more commands.
+- Adding ASCII & more commands.
