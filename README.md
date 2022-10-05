@@ -1,2 +1,4 @@
 # console-demo
-Adding more commands 
+Browser console, displays personal information. 
+
+Adding ASCII & more commands.
