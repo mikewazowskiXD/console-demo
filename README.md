@@ -1,4 +1,5 @@
 # React Console
-- React browser console, displays personal information. 
+- Browser console, displays personal information. 
+- Input field with commands.
 
 - Adding ASCII & more commands.
